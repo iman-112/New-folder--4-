@@ -44,6 +44,9 @@ a{
 .text-uppercase{
     text-transform: uppercase;
 }
+.text-uppercase:hover{
+
+}
 /*navbar*/
 nav {
     width: 100%;
